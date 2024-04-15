@@ -1,0 +1,3 @@
+input:focus:invalid{
+    background-color: red;
+}
